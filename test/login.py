@@ -1,1 +1,1 @@
-name = 'laowang'
+num1 = '100'
